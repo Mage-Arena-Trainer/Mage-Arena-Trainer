@@ -1,4 +1,4 @@
-# Mage Arena Trainer – Complete README
+# Mage Arena Trainer 
 
 The **Mage Arena Trainer** is a next-generation tool designed for players who want full mastery over spellcasting performance. It delivers fine-tuned control, faster cooldown management, and advanced customization—ensuring every duel or raid encounter feels effortless.
 
